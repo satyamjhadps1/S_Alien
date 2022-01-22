@@ -1,0 +1,56 @@
+body{
+    background-color:  #84cf98;
+    width: 100%;
+}
+
+#result_confidence, #result_label{
+    width: 600px;
+    letter-spacing: 2px;
+    color: steelblue;
+    font-weight: 700;
+    font-family: 'Mochiy Pop P One', sans-serif;
+}
+
+.main_div{
+    background-color: #84cf98;
+}
+
+.copy_right_footer{
+    text-shadow: 2px 2px 2px lightslategray;
+    margin: 2%;
+    position: relative;
+    color: red;
+}
+
+.header_div h2{
+    color: steelblue;
+    font-variant: small-caps;
+    font-size: 40px;
+    font-family: 'Mochiy Pop P One', sans-serif;
+}
+
+.header_div p{
+    color: red;
+    font-variant: small-caps;
+    font-size: 10px;
+    font-family: 'Mochiy Pop P One', sans-serif;
+}
+
+.header_div{
+    background-color: cornsilk;
+}
+.start{
+    transition: 0.6s;
+    margin: 1%;
+    font-size: 25px;
+    font-family: 'Mochiy Pop P One', sans-serif;
+}
+.start:hover{
+    padding-left: 4%;
+    padding-right: 4%;
+    outline: steelblue;
+    background-color: cornsilk;
+    color: steelblue;
+    margin: 2%;
+    
+}
